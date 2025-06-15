@@ -1,4 +1,7 @@
-<h1 align="left">Hey!👋</h1>
+<div align="center">
+<h1 align="center">Hola, soy <a href="https://aristi.dev">Bastian Salvo</a> 👋</h1>
+</div>
+<img src="https://imgur.com/08GCqCy">
 
 ###
 
