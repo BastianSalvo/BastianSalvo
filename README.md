@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Bastian Salvo</a> 👋</h1>
 </div>
-<img src="https://imgur.com/gallery/banner-git-2GicTMs">
+<img src="https://i.imgur.com/2GicTMs.png" alt="Banner Git">
 
 ###
 
