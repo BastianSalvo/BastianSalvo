@@ -23,7 +23,7 @@
   <img src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" width="50" height="50"/>
   <img src="https://img.icons8.com/ios11/512/FFFFFF/github.png" alt="GitHub" width="50" height="50"/>
   <img src="https://img.icons8.com/color/512/net-framework.png" alt=".NET" width="50" height="50"/>
-  <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" alt="AWS" width="50" height="50"/>
+  <img src="https://www.almeritek.com/wp-content/uploads/2019/08/acloud.png" alt="AWS" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/1200px-Kali-dragon-icon.svg.png" alt="Kali Linux" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="50" height="50"/>
