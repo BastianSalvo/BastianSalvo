@@ -20,7 +20,7 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  <img src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" width="50" height="50"/>
+  <img src="https://sc.filehippo.net/images/t_app-icon-l/p/917c77e8-96d1-11e6-8453-00163ed833e7/4171024085/mysql-com-logo" width="50" height="50"/>
   <img src="https://img.icons8.com/ios11/512/FFFFFF/github.png" alt="GitHub" width="50" height="50"/>
   <img src="https://img.icons8.com/color/512/net-framework.png" alt=".NET" width="50" height="50"/>
   <img src="https://www.almeritek.com/wp-content/uploads/2019/08/acloud.png" alt="AWS" width="50" height="50"/>
