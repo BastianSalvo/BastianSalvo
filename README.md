@@ -1,11 +1,10 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">Bastian Salvo</a> 👋</h1>
+  <h1>Hola, soy <a href="https://aristi.dev">Bastian Salvo</a> 👋</h1>
+  <img src="https://i.imgur.com/08GCqCy.png" alt="Banner Git" width="100%" />
+  <h3>Estudiante de Ingeniería Informática | Ciberseguridad • AWS • Backend • Power BI</h3>
 </div>
-<img src="https://i.imgur.com/08GCqCy.png" alt="Banner Git">
 
-###
-
-<h3>Estudiante de Ingeniería Informática | Ciberseguridad • AWS • Backend • Power BI</h3>
+---
 
 ### 🧠 Sobre mí
 
@@ -18,21 +17,22 @@
 
 ### 🛠️ Tecnologías y herramientas que uso
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  <img src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" width="50" height="50"/>
-  <img src="https://img.icons8.com/ios11/512/FFFFFF/github.png" alt="GitHub" width="50" height="50"/>
-  <img src="https://logos-world.net/wp-content/uploads/2022/01/NET-Framework-Symbol.png" alt=".NET" width="50" height="50"/>
-  <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" alt="AWS" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/1200px-Kali-dragon-icon.svg.png" alt="Kali Linux" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40" alt=".NET"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="40" height="40" alt="Kali Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40" height="40" alt="Power BI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
 </p>
 
-###
+---
 
-<h2 align="left">Contact</h2>
+### 📬 Contacto
 
 - 📧 Email: bastiansalvosepulveda@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/bastian-salvo-sepulveda-a30b9126b/
+- 💼 LinkedIn: [bastian-salvo-sepulveda](https://www.linkedin.com/in/bastian-salvo-sepulveda-a30b9126b/)
+
